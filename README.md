@@ -27,10 +27,11 @@ The trained Q-learning models are available on **Hugging Face** for evaluation.
 
 | Model | Hugging Face Link | Preview |
 |-------|------------------|---------|
-| **FrozenLake (4×4, Non-Slippery)** | [🔗 Model](https://huggingface.co/yashrajkupekar/q-FrozenLake-v1-4x4-noSlippery) | ![FrozenLake_4X4_Non-slippery](Q-learning/Testing/Videos/ezgif.com-video-to-gif-converter.gif) |
-| **FrozenLake (8×8, Slippery)** | [🔗 Model](https://huggingface.co/yashrajkupekar/FrozenLake-v1-8x8-Slippery) |  |
-| **Taxi (500 states)** | [🔗 Model](https://huggingface.co/yashrajkupekar/Taxi_500states) |  |
-| **Taxi (7200 states)** | [🔗 Model](https://huggingface.co/yashrajkupekar/Taxi_7200states) |  |
+| **FrozenLake (4×4, Non-Slippery)** | [🔗 Model](https://huggingface.co/yashrajkupekar/q-FrozenLake-v1-4x4-noSlippery) | ![FrozenLake_4X4_Non-slippery](Testing/Videos/ezgif.com-video-to-gif-converter-2.gif) |
+| **FrozenLake (8×8, Slippery)** | [🔗 Model](https://huggingface.co/yashrajkupekar/FrozenLake-v1-8x8-Slippery) | ![FrozenLake_8X8_slippery](Testing/Videos/FrozenLake_8X8_slippery-ezgif.com-video-to-gif-converter.gif) |
+| **Taxi (500 states)** | [🔗 Model](https://huggingface.co/yashrajkupekar/Taxi_500states) | ![Taxi_500states)](Testing/Videos/ezgif.com-video-to-gif-converter.gif) |
+| **Taxi (7200 states)** | [🔗 Model](https://huggingface.co/yashrajkupekar/Taxi_7200states) |![Taxi_500states)](Testing/Videos/Custom_taxi-ezgif.com-video-to-gif-converter.gif)  |
+
 
 ---
 ## 📜 **References**  
