@@ -1,17 +1,17 @@
-# **Q-learning Implementation** 🚀  
+# **Q-learning Implementation** 
 
 This repository contains a from-scratch implementation of **Q-learning**, a fundamental **reinforcement learning (RL)** algorithm. The implementation is tested in the **FrozenLake** and **Taxi Problem** environments provided by OpenAI's Gym.  
 
-## 📌 **Overview**  
+##  **Overview**  
 Q-learning is a model-free RL algorithm that enables an agent to learn optimal policies through trial and error. The goal is to maximize cumulative rewards by updating Q-values using the Bellman equation.  
 
 This project demonstrates Q-learning in two environments:  
-✅ **FrozenLake (8×8, Slippery)** – A grid-world navigation problem.  
-✅ **Custom Taxi Environment** – A modified version of the classic Taxi-v3 problem.  
+ **FrozenLake (8×8, Slippery)** – A grid-world navigation problem.  
+ **Custom Taxi Environment** – A modified version of the classic Taxi-v3 problem.  
 
 ---
 
-## 🚀 **Colab Notebooks**  
+## **Colab Notebooks**  
 You can explore the implementations interactively on Google Colab:  
 
 | Environment | Colab Link |
@@ -22,7 +22,7 @@ You can explore the implementations interactively on Google Colab:
 
 ---
 
-## 📊 **Trained Models**  
+##  **Trained Models**  
 The trained Q-learning models are available on **Hugging Face** for evaluation.  
 
 | Model | Hugging Face Link | Preview |
@@ -34,7 +34,7 @@ The trained Q-learning models are available on **Hugging Face** for evaluation.
 
 
 ---
-## 📜 **References**  
+##  **References**  
 - [Q-learning Algorithm (Wikipedia)](https://en.wikipedia.org/wiki/Q-learning)  
 - [OpenAI Gym Documentation](https://www.gymlibrary.dev/)  
 
